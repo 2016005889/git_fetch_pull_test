@@ -4,3 +4,4 @@
 测试第一行结果2-2
 测试fetch
 测试pull
+测试merge
